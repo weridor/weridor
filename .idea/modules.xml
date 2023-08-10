@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/weridor-main.iml" filepath="$PROJECT_DIR$/.idea/weridor-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/weridor.iml" filepath="$PROJECT_DIR$/.idea/weridor.iml" />
     </modules>
   </component>
 </project>
